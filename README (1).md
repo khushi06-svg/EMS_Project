@@ -125,10 +125,3 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-**Note**: Ensure that all configurations, such as database credentials and API endpoints, are correctly set up before running the application. For detailed tutorials and walkthroughs, you can refer to the following resources:
-
-- Part 1 Video Tutorial: [https://youtu.be/IKQQIYDfyPc](https://youtu.be/IKQQIYDfyPc)
-- Part 2 Video Tutorial: [https://youtu.be/6a4B7ev3vd0](https://youtu.be/6a4B7ev3vd0)
-
-For further assistance or support, feel free to reach out or open an issue in the repository.
